@@ -148,9 +148,7 @@ const Header = observer(({ getSiteData }) => {
           </SwitchTransition>
         </div>
       </div>
-  <script  src="https://cdnjs.nankoyo.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script  src="https://cdn.nankoyo.com/public/cache/blog/js/cf-cdn.js"></script>
-    </header>
+      </header>
   );
 });
 
